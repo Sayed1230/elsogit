@@ -1,1 +1,3 @@
 print("Alma")
+print("korte")
+
